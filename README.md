@@ -11,7 +11,9 @@
 
 - 💬 Um pouco sobre mim **Sou uma pessoa apaixonada por tecnologia, mobilidade e esportes. Tenho um perfil colaborativo e comprometido, sempre buscando novos conhecimentos.**
 
-- 📫 Meu e-mail **rafaelgf@gmail.com**
+- 📫 Meus contatos
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgf@gmail.com)](mailto:rafaelgf@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-fontes-08bb621/)](https://www.linkedin.com/in/rafael-fontes-08bb621/)
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
