@@ -11,9 +11,9 @@
 
 - 💬 Um pouco sobre mim **Sou uma pessoa apaixonada por tecnologia, mobilidade e esportes. Tenho um perfil colaborativo e comprometido, sempre buscando novos conhecimentos.**
 
-- 📫 Meu contato **rafaelgf@gmail.com**
+- 📫 Meu e-mail **rafaelgf@gmail.com**
 
-<h3 align="left">Contatos:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafael-fontes-08bb621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-fontes-08bb621" height="30" width="40" /></a>
 </p>
