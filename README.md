@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafagf77&label=Profile%20views&color=0e75b6&style=flat" alt="rafagf77" /> </p>
 
-- 🌱 Estou finalizando o curso **da Labenu com mais de 1000 horas de atividades, incluindo aulas, exercícios diários, projetos, palestras e atualizações do mercado**
+- 🌱 Finalizei o curso **da Labenu com mais de 1000 horas de atividades, incluindo aulas, exercícios diários, projetos, palestras e atualizações do mercado**
 
 - 🤝 Estou procurando oportunidades **com desafios para me aprimorar**
 
